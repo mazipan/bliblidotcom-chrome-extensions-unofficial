@@ -1,6 +1,10 @@
 # bliblidotcom-chrome-extensions-unofficial
 :handbag: Blibli.com Chrome Extensions Unofficial Version
 
+### Screenshoot
+
+![Screenshoot](https://raw.githubusercontent.com/mazipan/bliblidotcom-chrome-extensions-unofficial/master/screenshoot.png)
+
 ### How to load Extensions
 
 Extensions that you download from the Chrome Web Store are packaged up as `.crx` files, which is great for distribution, but not so great for development. Recognizing this, Chrome gives you a quick way of loading up your working directory for testing. Let's do that now.
