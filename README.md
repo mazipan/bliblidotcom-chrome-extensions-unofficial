@@ -1,5 +1,5 @@
 # bliblidotcom-chrome-extensions-unofficial
-Blibli.com Chrome Extensions
+:handbag: Blibli.com Chrome Extensions Unofficial Version
 
 ### How to load Extensions
 
