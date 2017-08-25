@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "bliblidotcom-chrome-ext",
+  "name": "blibli-unofficial",
+  "short_name": "blibli",
   "description": "Blibli.com Chrome Extensions Unofficial Version",
   "version": "1.0",
   "browser_action":
